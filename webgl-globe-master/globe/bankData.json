@@ -1,0 +1,2682 @@
+[
+ {
+   "LAT": 45.46,
+   "LONG": -98.48,
+   "BankCount": 17
+ },
+ {
+   "LAT": 46.88,
+   "LONG": -123.99,
+   "BankCount": 16
+ },
+ {
+   "LAT": 34.77,
+   "LONG": -96.66,
+   "BankCount": 18
+ },
+ {
+   "LAT": 41.89,
+   "LONG": -84.04,
+   "BankCount": 27
+ },
+ {
+   "LAT": 32.88,
+   "LONG": -105.95,
+   "BankCount": 8
+ },
+ {
+   "LAT": 35.36,
+   "LONG": -80.19,
+   "BankCount": 19
+ },
+ {
+   "LAT": 43.65,
+   "LONG": -93.36,
+   "BankCount": 15
+ },
+ {
+   "LAT": 34.26,
+   "LONG": -86.2,
+   "BankCount": 36
+ },
+ {
+   "LAT": 45.87,
+   "LONG": -95.37,
+   "BankCount": 18
+ },
+ {
+   "LAT": 27.75,
+   "LONG": -98.06,
+   "BankCount": 10
+ },
+ {
+   "LAT": 43.37,
+   "LONG": -84.65,
+   "BankCount": 18
+ },
+ {
+   "LAT": 45.07,
+   "LONG": -83.43,
+   "BankCount": 7
+ },
+ {
+   "LAT": 34.64,
+   "LONG": -99.31,
+   "BankCount": 10
+ },
+ {
+   "LAT": 32.06,
+   "LONG": -84.26,
+   "BankCount": 10
+ },
+ {
+   "LAT": 42.94,
+   "LONG": -74.19,
+   "BankCount": 14
+ },
+ {
+   "LAT": 32.32,
+   "LONG": -102.54,
+   "BankCount": 4
+ },
+ {
+   "LAT": 41.64,
+   "LONG": -85,
+   "BankCount": 15
+ },
+ {
+   "LAT": 27.21,
+   "LONG": -81.85,
+   "BankCount": 6
+ },
+ {
+   "LAT": 34.17,
+   "LONG": -97.14,
+   "BankCount": 23
+ },
+ {
+   "LAT": 34.12,
+   "LONG": -93.07,
+   "BankCount": 10
+ },
+ {
+   "LAT": 37.06,
+   "LONG": -97.04,
+   "BankCount": 19
+ },
+ {
+   "LAT": 40.86,
+   "LONG": -82.31,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.87,
+   "LONG": -80.79,
+   "BankCount": 30
+ },
+ {
+   "LAT": 46.12,
+   "LONG": -123.67,
+   "BankCount": 13
+ },
+ {
+   "LAT": 39.56,
+   "LONG": -95.13,
+   "BankCount": 7
+ },
+ {
+   "LAT": 39.32,
+   "LONG": -82.09,
+   "BankCount": 28
+ },
+ {
+   "LAT": 35.45,
+   "LONG": -84.6,
+   "BankCount": 16
+ },
+ {
+   "LAT": 32.2,
+   "LONG": -95.85,
+   "BankCount": 23
+ },
+ {
+   "LAT": 41.36,
+   "LONG": -85.05,
+   "BankCount": 14
+ },
+ {
+   "LAT": 42.93,
+   "LONG": -76.56,
+   "BankCount": 19
+ },
+ {
+   "LAT": 39.3,
+   "LONG": -78.59,
+   "BankCount": 18
+ },
+ {
+   "LAT": 43.67,
+   "LONG": -92.97,
+   "BankCount": 18
+ },
+ {
+   "LAT": 30.8,
+   "LONG": -84.5,
+   "BankCount": 9
+ },
+ {
+   "LAT": 43.46,
+   "LONG": -89.74,
+   "BankCount": 28
+ },
+ {
+   "LAT": 37.81,
+   "LONG": -85.46,
+   "BankCount": 18
+ },
+ {
+   "LAT": 44.2,
+   "LONG": -72.5,
+   "BankCount": 14
+ },
+ {
+   "LAT": 36.73,
+   "LONG": -95.94,
+   "BankCount": 17
+ },
+ {
+   "LAT": 32.77,
+   "LONG": -91.9,
+   "BankCount": 9
+ },
+ {
+   "LAT": 42.99,
+   "LONG": -78.18,
+   "BankCount": 17
+ },
+ {
+   "LAT": 35.76,
+   "LONG": -91.62,
+   "BankCount": 19
+ },
+ {
+   "LAT": 28.97,
+   "LONG": -95.96,
+   "BankCount": 9
+ },
+ {
+   "LAT": 40.26,
+   "LONG": -96.74,
+   "BankCount": 20
+ },
+ {
+   "LAT": 43.46,
+   "LONG": -88.83,
+   "BankCount": 31
+ },
+ {
+   "LAT": 38.86,
+   "LONG": -86.49,
+   "BankCount": 9
+ },
+ {
+   "LAT": 28.4,
+   "LONG": -97.74,
+   "BankCount": 7
+ },
+ {
+   "LAT": 40.36,
+   "LONG": -83.75,
+   "BankCount": 14
+ },
+ {
+   "LAT": 47.48,
+   "LONG": -94.87,
+   "BankCount": 15
+ },
+ {
+   "LAT": 34.63,
+   "LONG": -79.68,
+   "BankCount": 7
+ },
+ {
+   "LAT": 42.87,
+   "LONG": -73.18,
+   "BankCount": 10
+ },
+ {
+   "LAT": 44.48,
+   "LONG": -71.25,
+   "BankCount": 6
+ },
+ {
+   "LAT": 43.7,
+   "LONG": -85.48,
+   "BankCount": 13
+ },
+ {
+   "LAT": 32.24,
+   "LONG": -101.47,
+   "BankCount": 9
+ },
+ {
+   "LAT": 36.86,
+   "LONG": -82.77,
+   "BankCount": 33
+ },
+ {
+   "LAT": 43.27,
+   "LONG": -112.56,
+   "BankCount": 10
+ },
+ {
+   "LAT": 37.26,
+   "LONG": -81.21,
+   "BankCount": 55
+ },
+ {
+   "LAT": 35.93,
+   "LONG": -89.92,
+   "BankCount": 16
+ },
+ {
+   "LAT": 30.78,
+   "LONG": -89.86,
+   "BankCount": 9
+ },
+ {
+   "LAT": 42.05,
+   "LONG": -93.88,
+   "BankCount": 12
+ },
+ {
+   "LAT": 36.2,
+   "LONG": -81.66,
+   "BankCount": 15
+ },
+ {
+   "LAT": 35.65,
+   "LONG": -101.4,
+   "BankCount": 4
+ },
+ {
+   "LAT": 45.67,
+   "LONG": -111.03,
+   "BankCount": 36
+ },
+ {
+   "LAT": 41.96,
+   "LONG": -78.64,
+   "BankCount": 14
+ },
+ {
+   "LAT": 46.35,
+   "LONG": -94.19,
+   "BankCount": 44
+ },
+ {
+   "LAT": 36.64,
+   "LONG": -93.24,
+   "BankCount": 46
+ },
+ {
+   "LAT": 39.5,
+   "LONG": -106.04,
+   "BankCount": 18
+ },
+ {
+   "LAT": 30.15,
+   "LONG": -96.39,
+   "BankCount": 13
+ },
+ {
+   "LAT": 35.23,
+   "LONG": -82.73,
+   "BankCount": 9
+ },
+ {
+   "LAT": 31.58,
+   "LONG": -90.44,
+   "BankCount": 13
+ },
+ {
+   "LAT": 42.13,
+   "LONG": -124.24,
+   "BankCount": 7
+ },
+ {
+   "LAT": 44.3,
+   "LONG": -96.78,
+   "BankCount": 14
+ },
+ {
+   "LAT": 31.72,
+   "LONG": -98.97,
+   "BankCount": 13
+ },
+ {
+   "LAT": 40.8,
+   "LONG": -82.97,
+   "BankCount": 12
+ },
+ {
+   "LAT": 42.39,
+   "LONG": -113.78,
+   "BankCount": 13
+ },
+ {
+   "LAT": 40.8,
+   "LONG": -91.12,
+   "BankCount": 21
+ },
+ {
+   "LAT": 46.01,
+   "LONG": -90.49,
+   "BankCount": 9
+ },
+ {
+   "LAT": 44.24,
+   "LONG": -85.41,
+   "BankCount": 19
+ },
+ {
+   "LAT": 34.49,
+   "LONG": -84.94,
+   "BankCount": 16
+ },
+ {
+   "LAT": 38.56,
+   "LONG": -76.07,
+   "BankCount": 14
+ },
+ {
+   "LAT": 40.02,
+   "LONG": -81.58,
+   "BankCount": 14
+ },
+ {
+   "LAT": 33.56,
+   "LONG": -92.84,
+   "BankCount": 15
+ },
+ {
+   "LAT": 37.34,
+   "LONG": -85.34,
+   "BankCount": 13
+ },
+ {
+   "LAT": 38.44,
+   "LONG": -105.23,
+   "BankCount": 14
+ },
+ {
+   "LAT": 40.56,
+   "LONG": -90.04,
+   "BankCount": 18
+ },
+ {
+   "LAT": 31.59,
+   "LONG": -100.63,
+   "BankCount": 14
+ },
+ {
+   "LAT": 37.66,
+   "LONG": -113.19,
+   "BankCount": 10
+ },
+ {
+   "LAT": 34.01,
+   "LONG": -85.25,
+   "BankCount": 7
+ },
+ {
+   "LAT": 40.55,
+   "LONG": -84.57,
+   "BankCount": 19
+ },
+ {
+   "LAT": 38.52,
+   "LONG": -89.12,
+   "BankCount": 14
+ },
+ {
+   "LAT": 46.74,
+   "LONG": -122.95,
+   "BankCount": 21
+ },
+ {
+   "LAT": 38.35,
+   "LONG": -81.63,
+   "BankCount": 26
+ },
+ {
+   "LAT": 39.33,
+   "LONG": -82.98,
+   "BankCount": 18
+ },
+ {
+   "LAT": 37.22,
+   "LONG": -76.96,
+   "BankCount": 49
+ },
+ {
+   "LAT": 39.28,
+   "LONG": -80.33,
+   "BankCount": 40
+ },
+ {
+   "LAT": 34.2,
+   "LONG": -90.57,
+   "BankCount": 14
+ },
+ {
+   "LAT": 38.96,
+   "LONG": -122.64,
+   "BankCount": 14
+ },
+ {
+   "LAT": 33.74,
+   "LONG": -90.72,
+   "BankCount": 16
+ },
+ {
+   "LAT": 26.75,
+   "LONG": -80.93,
+   "BankCount": 8
+ },
+ {
+   "LAT": 41.84,
+   "LONG": -90.23,
+   "BankCount": 21
+ },
+ {
+   "LAT": 34.41,
+   "LONG": -103.2,
+   "BankCount": 18
+ },
+ {
+   "LAT": 37.04,
+   "LONG": -95.63,
+   "BankCount": 18
+ },
+ {
+   "LAT": 41.94,
+   "LONG": -85,
+   "BankCount": 18
+ },
+ {
+   "LAT": 33.5,
+   "LONG": -88.4,
+   "BankCount": 21
+ },
+ {
+   "LAT": 41.43,
+   "LONG": -97.35,
+   "BankCount": 26
+ },
+ {
+   "LAT": 43.23,
+   "LONG": -71.56,
+   "BankCount": 19
+ },
+ {
+   "LAT": 39.65,
+   "LONG": -85.14,
+   "BankCount": 8
+ },
+ {
+   "LAT": 36.15,
+   "LONG": -85.5,
+   "BankCount": 41
+ },
+ {
+   "LAT": 43.37,
+   "LONG": -124.14,
+   "BankCount": 18
+ },
+ {
+   "LAT": 31.96,
+   "LONG": -83.77,
+   "BankCount": 6
+ },
+ {
+   "LAT": 34.93,
+   "LONG": -88.51,
+   "BankCount": 14
+ },
+ {
+   "LAT": 34.51,
+   "LONG": -83.52,
+   "BankCount": 12
+ },
+ {
+   "LAT": 42.14,
+   "LONG": -77.05,
+   "BankCount": 27
+ },
+ {
+   "LAT": 32.08,
+   "LONG": -96.46,
+   "BankCount": 16
+ },
+ {
+   "LAT": 42.6,
+   "LONG": -76.18,
+   "BankCount": 15
+ },
+ {
+   "LAT": 40.26,
+   "LONG": -81.84,
+   "BankCount": 9
+ },
+ {
+   "LAT": 40.52,
+   "LONG": -107.55,
+   "BankCount": 4
+ },
+ {
+   "LAT": 40.04,
+   "LONG": -86.89,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.75,
+   "LONG": -124.2,
+   "BankCount": 5
+ },
+ {
+   "LAT": 35.95,
+   "LONG": -85.03,
+   "BankCount": 18
+ },
+ {
+   "LAT": 34.17,
+   "LONG": -86.83,
+   "BankCount": 29
+ },
+ {
+   "LAT": 35.31,
+   "LONG": -83.17,
+   "BankCount": 10
+ },
+ {
+   "LAT": 37.64,
+   "LONG": -84.77,
+   "BankCount": 25
+ },
+ {
+   "LAT": 36.58,
+   "LONG": -79.39,
+   "BankCount": 42
+ },
+ {
+   "LAT": 35.49,
+   "LONG": -85.01,
+   "BankCount": 9
+ },
+ {
+   "LAT": 40.83,
+   "LONG": -84.92,
+   "BankCount": 12
+ },
+ {
+   "LAT": 41.28,
+   "LONG": -84.36,
+   "BankCount": 14
+ },
+ {
+   "LAT": 29.37,
+   "LONG": -100.89,
+   "BankCount": 9
+ },
+ {
+   "LAT": 32.26,
+   "LONG": -107.75,
+   "BankCount": 3
+ },
+ {
+   "LAT": 30.77,
+   "LONG": -93.24,
+   "BankCount": 10
+ },
+ {
+   "LAT": 46.88,
+   "LONG": -102.78,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.84,
+   "LONG": -89.47,
+   "BankCount": 15
+ },
+ {
+   "LAT": 37.75,
+   "LONG": -100.01,
+   "BankCount": 16
+ },
+ {
+   "LAT": 31.5,
+   "LONG": -82.85,
+   "BankCount": 15
+ },
+ {
+   "LAT": 32.53,
+   "LONG": -82.92,
+   "BankCount": 22
+ },
+ {
+   "LAT": 38.45,
+   "LONG": -86.8,
+   "BankCount": 26
+ },
+ {
+   "LAT": 35.86,
+   "LONG": -101.96,
+   "BankCount": 7
+ },
+ {
+   "LAT": 34.52,
+   "LONG": -97.96,
+   "BankCount": 20
+ },
+ {
+   "LAT": 35.31,
+   "LONG": -78.61,
+   "BankCount": 28
+ },
+ {
+   "LAT": 37.14,
+   "LONG": -107.88,
+   "BankCount": 20
+ },
+ {
+   "LAT": 33.98,
+   "LONG": -96.39,
+   "BankCount": 17
+ },
+ {
+   "LAT": 36.03,
+   "LONG": -89.38,
+   "BankCount": 16
+ },
+ {
+   "LAT": 28.7,
+   "LONG": -100.49,
+   "BankCount": 11
+ },
+ {
+   "LAT": 38.77,
+   "LONG": -76.07,
+   "BankCount": 27
+ },
+ {
+   "LAT": 39.65,
+   "LONG": -106.6,
+   "BankCount": 34
+ },
+ {
+   "LAT": 39.11,
+   "LONG": -88.55,
+   "BankCount": 18
+ },
+ {
+   "LAT": 29.19,
+   "LONG": -96.27,
+   "BankCount": 17
+ },
+ {
+   "LAT": 33.1,
+   "LONG": -92.49,
+   "BankCount": 23
+ },
+ {
+   "LAT": 36.29,
+   "LONG": -76.22,
+   "BankCount": 20
+ },
+ {
+   "LAT": 35.4,
+   "LONG": -99.41,
+   "BankCount": 13
+ },
+ {
+   "LAT": 38.92,
+   "LONG": -79.85,
+   "BankCount": 10
+ },
+ {
+   "LAT": 40.74,
+   "LONG": -115.88,
+   "BankCount": 11
+ },
+ {
+   "LAT": 46.97,
+   "LONG": -120.47,
+   "BankCount": 13
+ },
+ {
+   "LAT": 38.41,
+   "LONG": -96.19,
+   "BankCount": 12
+ },
+ {
+   "LAT": 36.4,
+   "LONG": -97.86,
+   "BankCount": 22
+ },
+ {
+   "LAT": 31.32,
+   "LONG": -85.84,
+   "BankCount": 15
+ },
+ {
+   "LAT": 45.74,
+   "LONG": -87.08,
+   "BankCount": 13
+ },
+ {
+   "LAT": 36,
+   "LONG": -106.06,
+   "BankCount": 8
+ },
+ {
+   "LAT": 44,
+   "LONG": -88.84,
+   "BankCount": 30
+ },
+ {
+   "LAT": 41.25,
+   "LONG": -110.96,
+   "BankCount": 8
+ },
+ {
+   "LAT": 41,
+   "LONG": -91.96,
+   "BankCount": 9
+ },
+ {
+   "LAT": 39.48,
+   "LONG": -80.14,
+   "BankCount": 17
+ },
+ {
+   "LAT": 39.48,
+   "LONG": -118.78,
+   "BankCount": 5
+ },
+ {
+   "LAT": 44.29,
+   "LONG": -93.27,
+   "BankCount": 16
+ },
+ {
+   "LAT": 37.78,
+   "LONG": -90.42,
+   "BankCount": 25
+ },
+ {
+   "LAT": 46.28,
+   "LONG": -96.06,
+   "BankCount": 27
+ },
+ {
+   "LAT": 39.66,
+   "LONG": -119.06,
+   "BankCount": 7
+ },
+ {
+   "LAT": 41.04,
+   "LONG": -83.64,
+   "BankCount": 25
+ },
+ {
+   "LAT": 31.7,
+   "LONG": -83.25,
+   "BankCount": 5
+ },
+ {
+   "LAT": 35.33,
+   "LONG": -81.86,
+   "BankCount": 19
+ },
+ {
+   "LAT": 35.01,
+   "LONG": -90.78,
+   "BankCount": 13
+ },
+ {
+   "LAT": 42.5,
+   "LONG": -94.17,
+   "BankCount": 17
+ },
+ {
+   "LAT": 37.7,
+   "LONG": -92.15,
+   "BankCount": 19
+ },
+ {
+   "LAT": 40.61,
+   "LONG": -91.35,
+   "BankCount": 46
+ },
+ {
+   "LAT": 40.26,
+   "LONG": -103.79,
+   "BankCount": 10
+ },
+ {
+   "LAT": 42.93,
+   "LONG": -74.62,
+   "BankCount": 11
+ },
+ {
+   "LAT": 40.28,
+   "LONG": -86.51,
+   "BankCount": 12
+ },
+ {
+   "LAT": 38.19,
+   "LONG": -84.86,
+   "BankCount": 28
+ },
+ {
+   "LAT": 30.27,
+   "LONG": -98.87,
+   "BankCount": 10
+ },
+ {
+   "LAT": 42.29,
+   "LONG": -89.63,
+   "BankCount": 21
+ },
+ {
+   "LAT": 41.44,
+   "LONG": -96.49,
+   "BankCount": 23
+ },
+ {
+   "LAT": 41.35,
+   "LONG": -83.11,
+   "BankCount": 25
+ },
+ {
+   "LAT": 35.07,
+   "LONG": -81.65,
+   "BankCount": 7
+ },
+ {
+   "LAT": 33.63,
+   "LONG": -97.15,
+   "BankCount": 10
+ },
+ {
+   "LAT": 40.95,
+   "LONG": -90.37,
+   "BankCount": 21
+ },
+ {
+   "LAT": 35.52,
+   "LONG": -108.73,
+   "BankCount": 8
+ },
+ {
+   "LAT": 37.97,
+   "LONG": -100.86,
+   "BankCount": 15
+ },
+ {
+   "LAT": 40.04,
+   "LONG": -77.18,
+   "BankCount": 12
+ },
+ {
+   "LAT": 33.36,
+   "LONG": -79.29,
+   "BankCount": 29
+ },
+ {
+   "LAT": 44.28,
+   "LONG": -105.51,
+   "BankCount": 10
+ },
+ {
+   "LAT": 36.99,
+   "LONG": -85.92,
+   "BankCount": 28
+ },
+ {
+   "LAT": 39.54,
+   "LONG": -107.33,
+   "BankCount": 51
+ },
+ {
+   "LAT": 43.05,
+   "LONG": -74.34,
+   "BankCount": 13
+ },
+ {
+   "LAT": 35.15,
+   "LONG": -107.83,
+   "BankCount": 3
+ },
+ {
+   "LAT": 38.36,
+   "LONG": -98.8,
+   "BankCount": 21
+ },
+ {
+   "LAT": 36.16,
+   "LONG": -82.81,
+   "BankCount": 22
+ },
+ {
+   "LAT": 41.72,
+   "LONG": -74.52,
+   "BankCount": 9
+ },
+ {
+   "LAT": 39.34,
+   "LONG": -85.48,
+   "BankCount": 7
+ },
+ {
+   "LAT": 33.38,
+   "LONG": -91.05,
+   "BankCount": 25
+ },
+ {
+   "LAT": 40.1,
+   "LONG": -84.62,
+   "BankCount": 22
+ },
+ {
+   "LAT": 33.51,
+   "LONG": -90.19,
+   "BankCount": 20
+ },
+ {
+   "LAT": 34.19,
+   "LONG": -82.15,
+   "BankCount": 29
+ },
+ {
+   "LAT": 33.77,
+   "LONG": -89.81,
+   "BankCount": 9
+ },
+ {
+   "LAT": 36.68,
+   "LONG": -101.48,
+   "BankCount": 7
+ },
+ {
+   "LAT": 43.57,
+   "LONG": -114.21,
+   "BankCount": 21
+ },
+ {
+   "LAT": 39.7,
+   "LONG": -91.38,
+   "BankCount": 19
+ },
+ {
+   "LAT": 36.24,
+   "LONG": -93.11,
+   "BankCount": 19
+ },
+ {
+   "LAT": 40.58,
+   "LONG": -98.39,
+   "BankCount": 14
+ },
+ {
+   "LAT": 38.87,
+   "LONG": -99.31,
+   "BankCount": 15
+ },
+ {
+   "LAT": 32.73,
+   "LONG": -115.47,
+   "BankCount": 9
+ },
+ {
+   "LAT": 46.6,
+   "LONG": -112.03,
+   "BankCount": 29
+ },
+ {
+   "LAT": 36.54,
+   "LONG": -98.27,
+   "BankCount": 10
+ },
+ {
+   "LAT": 36.37,
+   "LONG": -78.37,
+   "BankCount": 10
+ },
+ {
+   "LAT": 34.82,
+   "LONG": -102.39,
+   "BankCount": 6
+ },
+ {
+   "LAT": 45.85,
+   "LONG": -119.21,
+   "BankCount": 32
+ },
+ {
+   "LAT": 41.92,
+   "LONG": -84.63,
+   "BankCount": 10
+ },
+ {
+   "LAT": 19.69,
+   "LONG": -155.08,
+   "BankCount": 30
+ },
+ {
+   "LAT": 32.73,
+   "LONG": -103.16,
+   "BankCount": 18
+ },
+ {
+   "LAT": 42.77,
+   "LONG": -86.1,
+   "BankCount": 28
+ },
+ {
+   "LAT": 45.61,
+   "LONG": -121.58,
+   "BankCount": 7
+ },
+ {
+   "LAT": 47.11,
+   "LONG": -88.56,
+   "BankCount": 19
+ },
+ {
+   "LAT": 42.25,
+   "LONG": -73.78,
+   "BankCount": 19
+ },
+ {
+   "LAT": 40.49,
+   "LONG": -78.01,
+   "BankCount": 18
+ },
+ {
+   "LAT": 40.88,
+   "LONG": -85.5,
+   "BankCount": 15
+ },
+ {
+   "LAT": 30.71,
+   "LONG": -95.54,
+   "BankCount": 14
+ },
+ {
+   "LAT": 44.36,
+   "LONG": -98.21,
+   "BankCount": 7
+ },
+ {
+   "LAT": 38.06,
+   "LONG": -97.91,
+   "BankCount": 25
+ },
+ {
+   "LAT": 44.88,
+   "LONG": -94.37,
+   "BankCount": 16
+ },
+ {
+   "LAT": 40.62,
+   "LONG": -79.15,
+   "BankCount": 33
+ },
+ {
+   "LAT": 33.44,
+   "LONG": -90.64,
+   "BankCount": 14
+ },
+ {
+   "LAT": 42.98,
+   "LONG": -85.05,
+   "BankCount": 22
+ },
+ {
+   "LAT": 45.82,
+   "LONG": -88.06,
+   "BankCount": 19
+ },
+ {
+   "LAT": 39.04,
+   "LONG": -82.62,
+   "BankCount": 12
+ },
+ {
+   "LAT": 43.47,
+   "LONG": -110.76,
+   "BankCount": 22
+ },
+ {
+   "LAT": 39.72,
+   "LONG": -90.23,
+   "BankCount": 23
+ },
+ {
+   "LAT": 31.96,
+   "LONG": -95.26,
+   "BankCount": 14
+ },
+ {
+   "LAT": 46.91,
+   "LONG": -98.69,
+   "BankCount": 7
+ },
+ {
+   "LAT": 37.22,
+   "LONG": -76.76,
+   "BankCount": 41
+ },
+ {
+   "LAT": 38.39,
+   "LONG": -86.93,
+   "BankCount": 28
+ },
+ {
+   "LAT": 34.13,
+   "LONG": -83.59,
+   "BankCount": 14
+ },
+ {
+   "LAT": 31.59,
+   "LONG": -81.88,
+   "BankCount": 7
+ },
+ {
+   "LAT": 39.02,
+   "LONG": -96.84,
+   "BankCount": 14
+ },
+ {
+   "LAT": 58.43,
+   "LONG": -135.38,
+   "BankCount": 12
+ },
+ {
+   "LAT": 48.19,
+   "LONG": -114.31,
+   "BankCount": 37
+ },
+ {
+   "LAT": 22.09,
+   "LONG": -159.35,
+   "BankCount": 16
+ },
+ {
+   "LAT": 40.7,
+   "LONG": -99.08,
+   "BankCount": 28
+ },
+ {
+   "LAT": 42.95,
+   "LONG": -72.29,
+   "BankCount": 15
+ },
+ {
+   "LAT": 41.44,
+   "LONG": -85.25,
+   "BankCount": 15
+ },
+ {
+   "LAT": 36.24,
+   "LONG": -90.04,
+   "BankCount": 10
+ },
+ {
+   "LAT": 30.04,
+   "LONG": -99.13,
+   "BankCount": 18
+ },
+ {
+   "LAT": 55.34,
+   "LONG": -131.64,
+   "BankCount": 7
+ },
+ {
+   "LAT": 24.55,
+   "LONG": -81.78,
+   "BankCount": 47
+ },
+ {
+   "LAT": 36.01,
+   "LONG": -75.66,
+   "BankCount": 36
+ },
+ {
+   "LAT": 27.5,
+   "LONG": -97.86,
+   "BankCount": 9
+ },
+ {
+   "LAT": 35.27,
+   "LONG": -77.59,
+   "BankCount": 17
+ },
+ {
+   "LAT": 40.19,
+   "LONG": -92.57,
+   "BankCount": 13
+ },
+ {
+   "LAT": 42.16,
+   "LONG": -121.68,
+   "BankCount": 13
+ },
+ {
+   "LAT": 43.56,
+   "LONG": -71.48,
+   "BankCount": 8
+ },
+ {
+   "LAT": 45.32,
+   "LONG": -118.2,
+   "BankCount": 12
+ },
+ {
+   "LAT": 33.03,
+   "LONG": -84.98,
+   "BankCount": 21
+ },
+ {
+   "LAT": 30.19,
+   "LONG": -82.64,
+   "BankCount": 12
+ },
+ {
+   "LAT": 32.73,
+   "LONG": -101.95,
+   "BankCount": 3
+ },
+ {
+   "LAT": 41.31,
+   "LONG": -105.58,
+   "BankCount": 8
+ },
+ {
+   "LAT": 35.59,
+   "LONG": -105.22,
+   "BankCount": 9
+ },
+ {
+   "LAT": 31.69,
+   "LONG": -89.14,
+   "BankCount": 24
+ },
+ {
+   "LAT": 34.76,
+   "LONG": -79.47,
+   "BankCount": 10
+ },
+ {
+   "LAT": 35.24,
+   "LONG": -87.33,
+   "BankCount": 14
+ },
+ {
+   "LAT": 37.67,
+   "LONG": -92.66,
+   "BankCount": 14
+ },
+ {
+   "LAT": 33.57,
+   "LONG": -102.36,
+   "BankCount": 9
+ },
+ {
+   "LAT": 40.96,
+   "LONG": -76.89,
+   "BankCount": 19
+ },
+ {
+   "LAT": 35.44,
+   "LONG": -86.78,
+   "BankCount": 10
+ },
+ {
+   "LAT": 40.59,
+   "LONG": -77.57,
+   "BankCount": 15
+ },
+ {
+   "LAT": 40.77,
+   "LONG": -99.74,
+   "BankCount": 17
+ },
+ {
+   "LAT": 37.04,
+   "LONG": -100.93,
+   "BankCount": 7
+ },
+ {
+   "LAT": 40.15,
+   "LONG": -89.36,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.13,
+   "LONG": -77.45,
+   "BankCount": 12
+ },
+ {
+   "LAT": 37.84,
+   "LONG": -81.98,
+   "BankCount": 13
+ },
+ {
+   "LAT": 40.75,
+   "LONG": -86.35,
+   "BankCount": 10
+ },
+ {
+   "LAT": 37.12,
+   "LONG": -84.08,
+   "BankCount": 58
+ },
+ {
+   "LAT": 35.89,
+   "LONG": -106.28,
+   "BankCount": 6
+ },
+ {
+   "LAT": 43.95,
+   "LONG": -86.44,
+   "BankCount": 8
+ },
+ {
+   "LAT": 31.33,
+   "LONG": -94.72,
+   "BankCount": 26
+ },
+ {
+   "LAT": 34.63,
+   "LONG": -79.01,
+   "BankCount": 44
+ },
+ {
+   "LAT": 40.47,
+   "LONG": -90.68,
+   "BankCount": 21
+ },
+ {
+   "LAT": 38.75,
+   "LONG": -85.38,
+   "BankCount": 11
+ },
+ {
+   "LAT": 37.33,
+   "LONG": -87.5,
+   "BankCount": 24
+ },
+ {
+   "LAT": 33.27,
+   "LONG": -93.23,
+   "BankCount": 15
+ },
+ {
+   "LAT": 44.84,
+   "LONG": -74.29,
+   "BankCount": 16
+ },
+ {
+   "LAT": 34.37,
+   "LONG": -92.81,
+   "BankCount": 13
+ },
+ {
+   "LAT": 44.09,
+   "LONG": -87.67,
+   "BankCount": 24
+ },
+ {
+   "LAT": 39.42,
+   "LONG": -81.44,
+   "BankCount": 27
+ },
+ {
+   "LAT": 45.08,
+   "LONG": -87.62,
+   "BankCount": 27
+ },
+ {
+   "LAT": 40.54,
+   "LONG": -85.66,
+   "BankCount": 23
+ },
+ {
+   "LAT": 35.68,
+   "LONG": -82,
+   "BankCount": 5
+ },
+ {
+   "LAT": 40.58,
+   "LONG": -83.12,
+   "BankCount": 21
+ },
+ {
+   "LAT": 46.55,
+   "LONG": -87.39,
+   "BankCount": 27
+ },
+ {
+   "LAT": 44.45,
+   "LONG": -95.78,
+   "BankCount": 15
+ },
+ {
+   "LAT": 39.11,
+   "LONG": -93.2,
+   "BankCount": 15
+ },
+ {
+   "LAT": 32.53,
+   "LONG": -94.35,
+   "BankCount": 22
+ },
+ {
+   "LAT": 42.03,
+   "LONG": -92.91,
+   "BankCount": 20
+ },
+ {
+   "LAT": 36.34,
+   "LONG": -88.85,
+   "BankCount": 13
+ },
+ {
+   "LAT": 36.68,
+   "LONG": -79.86,
+   "BankCount": 28
+ },
+ {
+   "LAT": 40.34,
+   "LONG": -94.87,
+   "BankCount": 8
+ },
+ {
+   "LAT": 43.15,
+   "LONG": -93.19,
+   "BankCount": 27
+ },
+ {
+   "LAT": 36.73,
+   "LONG": -88.64,
+   "BankCount": 12
+ },
+ {
+   "LAT": 38.62,
+   "LONG": -83.78,
+   "BankCount": 12
+ },
+ {
+   "LAT": 34.92,
+   "LONG": -95.76,
+   "BankCount": 12
+ },
+ {
+   "LAT": 31.24,
+   "LONG": -90.46,
+   "BankCount": 24
+ },
+ {
+   "LAT": 35.68,
+   "LONG": -85.77,
+   "BankCount": 16
+ },
+ {
+   "LAT": 38.36,
+   "LONG": -97.66,
+   "BankCount": 22
+ },
+ {
+   "LAT": 41.64,
+   "LONG": -80.14,
+   "BankCount": 18
+ },
+ {
+   "LAT": 44.88,
+   "LONG": -91.91,
+   "BankCount": 21
+ },
+ {
+   "LAT": 32.38,
+   "LONG": -88.71,
+   "BankCount": 50
+ },
+ {
+   "LAT": 45.18,
+   "LONG": -89.7,
+   "BankCount": 10
+ },
+ {
+   "LAT": 39.16,
+   "LONG": -91.87,
+   "BankCount": 9
+ },
+ {
+   "LAT": 36.88,
+   "LONG": -94.87,
+   "BankCount": 12
+ },
+ {
+   "LAT": 36.61,
+   "LONG": -83.72,
+   "BankCount": 13
+ },
+ {
+   "LAT": 33.08,
+   "LONG": -83.23,
+   "BankCount": 11
+ },
+ {
+   "LAT": 32.82,
+   "LONG": -98.07,
+   "BankCount": 9
+ },
+ {
+   "LAT": 48.23,
+   "LONG": -101.29,
+   "BankCount": 31
+ },
+ {
+   "LAT": 43.73,
+   "LONG": -98.03,
+   "BankCount": 15
+ },
+ {
+   "LAT": 39.41,
+   "LONG": -92.43,
+   "BankCount": 11
+ },
+ {
+   "LAT": 38.3,
+   "LONG": -107.9,
+   "BankCount": 17
+ },
+ {
+   "LAT": 34.72,
+   "LONG": -76.73,
+   "BankCount": 29
+ },
+ {
+   "LAT": 29.7,
+   "LONG": -91.19,
+   "BankCount": 23
+ },
+ {
+   "LAT": 46.72,
+   "LONG": -116.99,
+   "BankCount": 14
+ },
+ {
+   "LAT": 47.19,
+   "LONG": -119.3,
+   "BankCount": 23
+ },
+ {
+   "LAT": 31.12,
+   "LONG": -83.68,
+   "BankCount": 12
+ },
+ {
+   "LAT": 36.33,
+   "LONG": -92.37,
+   "BankCount": 22
+ },
+ {
+   "LAT": 43.36,
+   "LONG": -115.52,
+   "BankCount": 6
+ },
+ {
+   "LAT": 36.5,
+   "LONG": -80.61,
+   "BankCount": 28
+ },
+ {
+   "LAT": 43.59,
+   "LONG": -84.77,
+   "BankCount": 26
+ },
+ {
+   "LAT": 33.16,
+   "LONG": -94.97,
+   "BankCount": 7
+ },
+ {
+   "LAT": 38.06,
+   "LONG": -83.94,
+   "BankCount": 20
+ },
+ {
+   "LAT": 38.31,
+   "LONG": -88.91,
+   "BankCount": 15
+ },
+ {
+   "LAT": 40.39,
+   "LONG": -82.47,
+   "BankCount": 20
+ },
+ {
+   "LAT": 36.61,
+   "LONG": -88.31,
+   "BankCount": 13
+ },
+ {
+   "LAT": 41.41,
+   "LONG": -91.07,
+   "BankCount": 15
+ },
+ {
+   "LAT": 35.74,
+   "LONG": -95.35,
+   "BankCount": 20
+ },
+ {
+   "LAT": 31.61,
+   "LONG": -94.65,
+   "BankCount": 21
+ },
+ {
+   "LAT": 31.54,
+   "LONG": -91.38,
+   "BankCount": 20
+ },
+ {
+   "LAT": 31.75,
+   "LONG": -93.09,
+   "BankCount": 18
+ },
+ {
+   "LAT": 34.27,
+   "LONG": -81.61,
+   "BankCount": 10
+ },
+ {
+   "LAT": 39.92,
+   "LONG": -85.36,
+   "BankCount": 21
+ },
+ {
+   "LAT": 40.99,
+   "LONG": -80.34,
+   "BankCount": 23
+ },
+ {
+   "LAT": 40.71,
+   "LONG": -76.11,
+   "BankCount": 40
+ },
+ {
+   "LAT": 44.66,
+   "LONG": -124.01,
+   "BankCount": 22
+ },
+ {
+   "LAT": 35.96,
+   "LONG": -83.19,
+   "BankCount": 6
+ },
+ {
+   "LAT": 41.69,
+   "LONG": -93.04,
+   "BankCount": 16
+ },
+ {
+   "LAT": 44.31,
+   "LONG": -94.46,
+   "BankCount": 13
+ },
+ {
+   "LAT": 31.36,
+   "LONG": -110.93,
+   "BankCount": 12
+ },
+ {
+   "LAT": 42.03,
+   "LONG": -97.41,
+   "BankCount": 34
+ },
+ {
+   "LAT": 41.13,
+   "LONG": -100.77,
+   "BankCount": 20
+ },
+ {
+   "LAT": 39,
+   "LONG": -85.63,
+   "BankCount": 7
+ },
+ {
+   "LAT": 36.15,
+   "LONG": -81.14,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.24,
+   "LONG": -82.61,
+   "BankCount": 20
+ },
+ {
+   "LAT": 48.28,
+   "LONG": -122.62,
+   "BankCount": 25
+ },
+ {
+   "LAT": 44.45,
+   "LONG": -89.03,
+   "BankCount": 29
+ },
+ {
+   "LAT": 41.42,
+   "LONG": -79.7,
+   "BankCount": 13
+ },
+ {
+   "LAT": 27.24,
+   "LONG": -80.82,
+   "BankCount": 10
+ },
+ {
+   "LAT": 42.08,
+   "LONG": -78.43,
+   "BankCount": 28
+ },
+ {
+   "LAT": 42.45,
+   "LONG": -75.06,
+   "BankCount": 28
+ },
+ {
+   "LAT": 44.08,
+   "LONG": -117.01,
+   "BankCount": 20
+ },
+ {
+   "LAT": 30.52,
+   "LONG": -92.08,
+   "BankCount": 36
+ },
+ {
+   "LAT": 33.49,
+   "LONG": -80.86,
+   "BankCount": 23
+ },
+ {
+   "LAT": 41.29,
+   "LONG": -92.63,
+   "BankCount": 9
+ },
+ {
+   "LAT": 46.8,
+   "LONG": -119.15,
+   "BankCount": 7
+ },
+ {
+   "LAT": 38.6,
+   "LONG": -95.26,
+   "BankCount": 13
+ },
+ {
+   "LAT": 37.96,
+   "LONG": -81.82,
+   "BankCount": 66
+ },
+ {
+   "LAT": 41.01,
+   "LONG": -92.41,
+   "BankCount": 15
+ },
+ {
+   "LAT": 44.08,
+   "LONG": -93.22,
+   "BankCount": 17
+ },
+ {
+   "LAT": 42.99,
+   "LONG": -84.17,
+   "BankCount": 21
+ },
+ {
+   "LAT": 34.35,
+   "LONG": -89.52,
+   "BankCount": 24
+ },
+ {
+   "LAT": 36.31,
+   "LONG": -78.58,
+   "BankCount": 13
+ },
+ {
+   "LAT": 31.43,
+   "LONG": -85.64,
+   "BankCount": 13
+ },
+ {
+   "LAT": 37.07,
+   "LONG": -88.63,
+   "BankCount": 43
+ },
+ {
+   "LAT": 36.08,
+   "LONG": -115.92,
+   "BankCount": 9
+ },
+ {
+   "LAT": 29.64,
+   "LONG": -81.65,
+   "BankCount": 11
+ },
+ {
+   "LAT": 31.75,
+   "LONG": -95.64,
+   "BankCount": 12
+ },
+ {
+   "LAT": 35.54,
+   "LONG": -100.96,
+   "BankCount": 5
+ },
+ {
+   "LAT": 36.05,
+   "LONG": -90.51,
+   "BankCount": 19
+ },
+ {
+   "LAT": 36.3,
+   "LONG": -88.3,
+   "BankCount": 16
+ },
+ {
+   "LAT": 33.66,
+   "LONG": -95.54,
+   "BankCount": 14
+ },
+ {
+   "LAT": 37.33,
+   "LONG": -95.26,
+   "BankCount": 15
+ },
+ {
+   "LAT": 34.25,
+   "LONG": -111.28,
+   "BankCount": 11
+ },
+ {
+   "LAT": 31.4,
+   "LONG": -103.5,
+   "BankCount": 1
+ },
+ {
+   "LAT": 40.75,
+   "LONG": -86.06,
+   "BankCount": 10
+ },
+ {
+   "LAT": 30.52,
+   "LONG": -89.67,
+   "BankCount": 16
+ },
+ {
+   "LAT": 44.37,
+   "LONG": -100.32,
+   "BankCount": 13
+ },
+ {
+   "LAT": 30.18,
+   "LONG": -95.7,
+   "BankCount": 45
+ },
+ {
+   "LAT": 37.41,
+   "LONG": -94.69,
+   "BankCount": 24
+ },
+ {
+   "LAT": 34.19,
+   "LONG": -101.72,
+   "BankCount": 12
+ },
+ {
+   "LAT": 42.73,
+   "LONG": -90.47,
+   "BankCount": 37
+ },
+ {
+   "LAT": 44.69,
+   "LONG": -73.45,
+   "BankCount": 26
+ },
+ {
+   "LAT": 41.34,
+   "LONG": -86.31,
+   "BankCount": 15
+ },
+ {
+   "LAT": 38.85,
+   "LONG": -82.13,
+   "BankCount": 22
+ },
+ {
+   "LAT": 36.72,
+   "LONG": -97.06,
+   "BankCount": 18
+ },
+ {
+   "LAT": 40.87,
+   "LONG": -88.64,
+   "BankCount": 23
+ },
+ {
+   "LAT": 36.76,
+   "LONG": -90.4,
+   "BankCount": 20
+ },
+ {
+   "LAT": 34.18,
+   "LONG": -103.34,
+   "BankCount": 6
+ },
+ {
+   "LAT": 48.02,
+   "LONG": -123.82,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.5,
+   "LONG": -82.93,
+   "BankCount": 21
+ },
+ {
+   "LAT": 28.61,
+   "LONG": -96.62,
+   "BankCount": 9
+ },
+ {
+   "LAT": 38.75,
+   "LONG": -82.95,
+   "BankCount": 19
+ },
+ {
+   "LAT": 40.67,
+   "LONG": -76.2,
+   "BankCount": 59
+ },
+ {
+   "LAT": 39.57,
+   "LONG": -110.8,
+   "BankCount": 6
+ },
+ {
+   "LAT": 44.1,
+   "LONG": -120.66,
+   "BankCount": 5
+ },
+ {
+   "LAT": 46.73,
+   "LONG": -117.17,
+   "BankCount": 25
+ },
+ {
+   "LAT": 39.93,
+   "LONG": -91.38,
+   "BankCount": 41
+ },
+ {
+   "LAT": 26.47,
+   "LONG": -97.78,
+   "BankCount": 3
+ },
+ {
+   "LAT": 40.13,
+   "LONG": -122.43,
+   "BankCount": 15
+ },
+ {
+   "LAT": 44.58,
+   "LONG": -92.6,
+   "BankCount": 22
+ },
+ {
+   "LAT": 43.81,
+   "LONG": -111.78,
+   "BankCount": 12
+ },
+ {
+   "LAT": 39.82,
+   "LONG": -84.88,
+   "BankCount": 29
+ },
+ {
+   "LAT": 44.4,
+   "LONG": -73,
+   "BankCount": 47
+ },
+ {
+   "LAT": 26.37,
+   "LONG": -98.82,
+   "BankCount": 12
+ },
+ {
+   "LAT": 43.03,
+   "LONG": -108.41,
+   "BankCount": 15
+ },
+ {
+   "LAT": 36.45,
+   "LONG": -77.65,
+   "BankCount": 22
+ },
+ {
+   "LAT": 41.91,
+   "LONG": -89.06,
+   "BankCount": 17
+ },
+ {
+   "LAT": 34.93,
+   "LONG": -79.76,
+   "BankCount": 15
+ },
+ {
+   "LAT": 41.59,
+   "LONG": -109.22,
+   "BankCount": 11
+ },
+ {
+   "LAT": 37.94,
+   "LONG": -91.76,
+   "BankCount": 18
+ },
+ {
+   "LAT": 43.24,
+   "LONG": -123.48,
+   "BankCount": 29
+ },
+ {
+   "LAT": 33.33,
+   "LONG": -104.52,
+   "BankCount": 18
+ },
+ {
+   "LAT": 35.27,
+   "LONG": -93.14,
+   "BankCount": 41
+ },
+ {
+   "LAT": 32.53,
+   "LONG": -92.63,
+   "BankCount": 18
+ },
+ {
+   "LAT": 43.6,
+   "LONG": -72.97,
+   "BankCount": 17
+ },
+ {
+   "LAT": 32.77,
+   "LONG": -109.71,
+   "BankCount": 3
+ },
+ {
+   "LAT": 18.34,
+   "LONG": -64.93,
+   "BankCount": 11
+ },
+ {
+   "LAT": 40.9,
+   "LONG": -80.85,
+   "BankCount": 36
+ },
+ {
+   "LAT": 38.81,
+   "LONG": -97.61,
+   "BankCount": 30
+ },
+ {
+   "LAT": 48.34,
+   "LONG": -116.45,
+   "BankCount": 12
+ },
+ {
+   "LAT": 41.45,
+   "LONG": -82.71,
+   "BankCount": 24
+ },
+ {
+   "LAT": 35.36,
+   "LONG": -79.13,
+   "BankCount": 22
+ },
+ {
+   "LAT": 46.48,
+   "LONG": -84.36,
+   "BankCount": 14
+ },
+ {
+   "LAT": 41.97,
+   "LONG": -76.51,
+   "BankCount": 30
+ },
+ {
+   "LAT": 41.86,
+   "LONG": -103.66,
+   "BankCount": 22
+ },
+ {
+   "LAT": 34.64,
+   "LONG": -86.04,
+   "BankCount": 19
+ },
+ {
+   "LAT": 35.24,
+   "LONG": -91.73,
+   "BankCount": 40
+ },
+ {
+   "LAT": 38.7,
+   "LONG": -93.23,
+   "BankCount": 17
+ },
+ {
+   "LAT": 40.8,
+   "LONG": -76.86,
+   "BankCount": 25
+ },
+ {
+   "LAT": 32.41,
+   "LONG": -87.03,
+   "BankCount": 10
+ },
+ {
+   "LAT": 34.68,
+   "LONG": -82.95,
+   "BankCount": 18
+ },
+ {
+   "LAT": 42.91,
+   "LONG": -76.79,
+   "BankCount": 9
+ },
+ {
+   "LAT": 35.89,
+   "LONG": -83.57,
+   "BankCount": 55
+ },
+ {
+   "LAT": 38.95,
+   "LONG": -85.88,
+   "BankCount": 24
+ },
+ {
+   "LAT": 44.77,
+   "LONG": -88.58,
+   "BankCount": 16
+ },
+ {
+   "LAT": 35.33,
+   "LONG": -96.91,
+   "BankCount": 17
+ },
+ {
+   "LAT": 35.28,
+   "LONG": -81.54,
+   "BankCount": 26
+ },
+ {
+   "LAT": 35.49,
+   "LONG": -86.44,
+   "BankCount": 7
+ },
+ {
+   "LAT": 47.23,
+   "LONG": -123.2,
+   "BankCount": 9
+ },
+ {
+   "LAT": 44.79,
+   "LONG": -106.95,
+   "BankCount": 9
+ },
+ {
+   "LAT": 34.25,
+   "LONG": -110.02,
+   "BankCount": 18
+ },
+ {
+   "LAT": 40.28,
+   "LONG": -84.16,
+   "BankCount": 18
+ },
+ {
+   "LAT": 36.88,
+   "LONG": -89.58,
+   "BankCount": 16
+ },
+ {
+   "LAT": 32.78,
+   "LONG": -108.26,
+   "BankCount": 6
+ },
+ {
+   "LAT": 32.71,
+   "LONG": -100.91,
+   "BankCount": 4
+ },
+ {
+   "LAT": 37.08,
+   "LONG": -84.6,
+   "BankCount": 32
+ },
+ {
+   "LAT": 40,
+   "LONG": -79.07,
+   "BankCount": 31
+ },
+ {
+   "LAT": 37.98,
+   "LONG": -120.39,
+   "BankCount": 22
+ },
+ {
+   "LAT": 44.48,
+   "LONG": -103.84,
+   "BankCount": 11
+ },
+ {
+   "LAT": 43.14,
+   "LONG": -95.15,
+   "BankCount": 11
+ },
+ {
+   "LAT": 43.42,
+   "LONG": -95.11,
+   "BankCount": 17
+ },
+ {
+   "LAT": 33.45,
+   "LONG": -88.82,
+   "BankCount": 20
+ },
+ {
+   "LAT": 32.44,
+   "LONG": -81.77,
+   "BankCount": 17
+ },
+ {
+   "LAT": 40.47,
+   "LONG": -106.82,
+   "BankCount": 15
+ },
+ {
+   "LAT": 32.21,
+   "LONG": -98.21,
+   "BankCount": 11
+ },
+ {
+   "LAT": 40.62,
+   "LONG": -103.19,
+   "BankCount": 7
+ },
+ {
+   "LAT": 41.79,
+   "LONG": -89.69,
+   "BankCount": 20
+ },
+ {
+   "LAT": 44.52,
+   "LONG": -89.56,
+   "BankCount": 24
+ },
+ {
+   "LAT": 36.13,
+   "LONG": -97.07,
+   "BankCount": 27
+ },
+ {
+   "LAT": 42.64,
+   "LONG": -95.19,
+   "BankCount": 15
+ },
+ {
+   "LAT": 41.8,
+   "LONG": -85.42,
+   "BankCount": 23
+ },
+ {
+   "LAT": 33.14,
+   "LONG": -95.61,
+   "BankCount": 11
+ },
+ {
+   "LAT": 34.47,
+   "LONG": -85.34,
+   "BankCount": 7
+ },
+ {
+   "LAT": 45.38,
+   "LONG": -89.19,
+   "BankCount": 17
+ },
+ {
+   "LAT": 40.86,
+   "LONG": -76.78,
+   "BankCount": 34
+ },
+ {
+   "LAT": 40.57,
+   "LONG": -120.61,
+   "BankCount": 5
+ },
+ {
+   "LAT": 32.46,
+   "LONG": -100.4,
+   "BankCount": 3
+ },
+ {
+   "LAT": 35.91,
+   "LONG": -94.97,
+   "BankCount": 11
+ },
+ {
+   "LAT": 33.43,
+   "LONG": -86.09,
+   "BankCount": 16
+ },
+ {
+   "LAT": 36.38,
+   "LONG": -105.57,
+   "BankCount": 11
+ },
+ {
+   "LAT": 39.52,
+   "LONG": -89.26,
+   "BankCount": 19
+ },
+ {
+   "LAT": 45.54,
+   "LONG": -121.15,
+   "BankCount": 8
+ },
+ {
+   "LAT": 32.89,
+   "LONG": -84.32,
+   "BankCount": 9
+ },
+ {
+   "LAT": 30.83,
+   "LONG": -83.97,
+   "BankCount": 12
+ },
+ {
+   "LAT": 41.11,
+   "LONG": -83.17,
+   "BankCount": 20
+ },
+ {
+   "LAT": 31.46,
+   "LONG": -83.51,
+   "BankCount": 16
+ },
+ {
+   "LAT": 34.57,
+   "LONG": -83.32,
+   "BankCount": 5
+ },
+ {
+   "LAT": 41.77,
+   "LONG": -73.06,
+   "BankCount": 43
+ },
+ {
+   "LAT": 44.75,
+   "LONG": -85.6,
+   "BankCount": 46
+ },
+ {
+   "LAT": 31.8,
+   "LONG": -85.96,
+   "BankCount": 12
+ },
+ {
+   "LAT": 39.3,
+   "LONG": -120.31,
+   "BankCount": 29
+ },
+ {
+   "LAT": 35.37,
+   "LONG": -86.2,
+   "BankCount": 30
+ },
+ {
+   "LAT": 34.26,
+   "LONG": -88.73,
+   "BankCount": 62
+ },
+ {
+   "LAT": 42.56,
+   "LONG": -114.46,
+   "BankCount": 31
+ },
+ {
+   "LAT": 39.12,
+   "LONG": -123.28,
+   "BankCount": 22
+ },
+ {
+   "LAT": 36.42,
+   "LONG": -89.05,
+   "BankCount": 22
+ },
+ {
+   "LAT": 40.1,
+   "LONG": -83.75,
+   "BankCount": 14
+ },
+ {
+   "LAT": 29.21,
+   "LONG": -99.78,
+   "BankCount": 6
+ },
+ {
+   "LAT": 32.8,
+   "LONG": -85.17,
+   "BankCount": 8
+ },
+ {
+   "LAT": 40.86,
+   "LONG": -84.58,
+   "BankCount": 8
+ },
+ {
+   "LAT": 42.78,
+   "LONG": -96.92,
+   "BankCount": 6
+ },
+ {
+   "LAT": 40.45,
+   "LONG": -109.53,
+   "BankCount": 4
+ },
+ {
+   "LAT": 34.14,
+   "LONG": -99.3,
+   "BankCount": 2
+ },
+ {
+   "LAT": 32.32,
+   "LONG": -90.87,
+   "BankCount": 20
+ },
+ {
+   "LAT": 32.21,
+   "LONG": -82.4,
+   "BankCount": 13
+ },
+ {
+   "LAT": 38.67,
+   "LONG": -87.51,
+   "BankCount": 19
+ },
+ {
+   "LAT": 41.45,
+   "LONG": -70.6,
+   "BankCount": 9
+ },
+ {
+   "LAT": 40.79,
+   "LONG": -85.82,
+   "BankCount": 10
+ },
+ {
+   "LAT": 46.26,
+   "LONG": -96.6,
+   "BankCount": 15
+ },
+ {
+   "LAT": 40.57,
+   "LONG": -84.19,
+   "BankCount": 17
+ },
+ {
+   "LAT": 41.84,
+   "LONG": -79.18,
+   "BankCount": 8
+ },
+ {
+   "LAT": 38.75,
+   "LONG": -93.72,
+   "BankCount": 20
+ },
+ {
+   "LAT": 41.23,
+   "LONG": -85.85,
+   "BankCount": 39
+ },
+ {
+   "LAT": 38.65,
+   "LONG": -87.17,
+   "BankCount": 11
+ },
+ {
+   "LAT": 35.55,
+   "LONG": -77.05,
+   "BankCount": 21
+ },
+ {
+   "LAT": 39.53,
+   "LONG": -83.43,
+   "BankCount": 10
+ },
+ {
+   "LAT": 44.91,
+   "LONG": -97.16,
+   "BankCount": 13
+ },
+ {
+   "LAT": 43.19,
+   "LONG": -88.72,
+   "BankCount": 30
+ },
+ {
+   "LAT": 27.54,
+   "LONG": -81.8,
+   "BankCount": 5
+ },
+ {
+   "LAT": 31.21,
+   "LONG": -82.35,
+   "BankCount": 12
+ },
+ {
+   "LAT": 35.53,
+   "LONG": -98.68,
+   "BankCount": 14
+ },
+ {
+   "LAT": 36.74,
+   "LONG": -91.86,
+   "BankCount": 17
+ },
+ {
+   "LAT": 42.83,
+   "LONG": -88.73,
+   "BankCount": 39
+ },
+ {
+   "LAT": 48.16,
+   "LONG": -103.63,
+   "BankCount": 9
+ },
+ {
+   "LAT": 45.12,
+   "LONG": -95.04,
+   "BankCount": 20
+ },
+ {
+   "LAT": 39.44,
+   "LONG": -83.83,
+   "BankCount": 14
+ },
+ {
+   "LAT": 35.73,
+   "LONG": -77.92,
+   "BankCount": 32
+ },
+ {
+   "LAT": 40.96,
+   "LONG": -117.72,
+   "BankCount": 5
+ },
+ {
+   "LAT": 44.04,
+   "LONG": -91.65,
+   "BankCount": 16
+ },
+ {
+   "LAT": 44.39,
+   "LONG": -89.83,
+   "BankCount": 27
+ },
+ {
+   "LAT": 36.42,
+   "LONG": -99.4,
+   "BankCount": 10
+ },
+ {
+   "LAT": 40.81,
+   "LONG": -81.93,
+   "BankCount": 42
+ },
+ {
+   "LAT": 43.62,
+   "LONG": -95.59,
+   "BankCount": 13
+ },
+ {
+   "LAT": 42.87,
+   "LONG": -97.39,
+   "BankCount": 10
+ },
+ {
+   "LAT": 39.95,
+   "LONG": -82.01,
+   "BankCount": 35
+ },
+ {
+   "LAT": 26.89,
+   "LONG": -99.26,
+   "BankCount": 2
+ }
+]

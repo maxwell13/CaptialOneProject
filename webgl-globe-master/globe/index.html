@@ -110,13 +110,13 @@
   </div>
 
   <div id="currentInfo">
-    <span id="year1990" class="year">1990</span>
-    <span id="year1995" class="year">1995</span>
-    <span id="year2000" class="year">2000</span>
+    <span id="year1990" onclick="document.location.href = 'index.html';" class="year">Income</span>
+    <span id="year1995" onclick="document.location.href = 'index.html?bank';" class="year">Banks</span>
+    <span id="year2000" class="year"></span>
   </div>
 
   <div id="title">
-    United States Incomes 
+    US Incomes and Banks 
   </div>
 
   <a id="ce" href="http://www.chromeexperiments.com/globe">
@@ -160,10 +160,23 @@
         y.addEventListener('mouseover', settime(globe,i), false);
       }
       
-      var xhr;
+     var xhr;
       TWEEN.start();
       
-      console.log("start");
+      var which= location.search; 
+     console.log(which);
+      if(which!= '?bank')
+      {
+      showGlobe("income");
+      }
+      else
+      {
+      showGlobe("bank");
+      }
+      //console.log("start");
+      function showGlobe(chose)
+      {
+      
       xhr = new XMLHttpRequest();
       xhr.open('GET', '/globe/data.json', true);
       //xhr.open('GET', '/globe/population909500.json', true);
@@ -171,45 +184,73 @@
         if (xhr.readyState === 4) {
           if (xhr.status === 200) {
            // alert(xhr.responseText);
-            var dataRaw=[];
+            var dataRaw1=[];
+            var dataRaw2=[];
             var usMoneyData = JSON.parse(xhr.responseText);
             //alert(JSON.stringify(usMoneyData[0].Long,null,4));
             //alert(usMoneyData[0]);
             for(x in usMoneyData)
             {
+                var LATB=usMoneyData[x].LATB;
+                var LONGB=usMoneyData[x].LONGB;
+                var banks=usMoneyData[x].BankCount/90;
 
-                var lat=usMoneyData[x].Lat;
-                var long=usMoneyData[x].Long;
+                var lat=usMoneyData[x].LatM;
+                var long=usMoneyData[x].LongM;
                 var money=usMoneyData[x].avgIncome/6000000;
                if(lat!=null && long!=null && money!=null)
                 {
-                dataRaw.push(lat,long,money);
-                console.log(money);
+                dataRaw1.push(lat,long,money);
+                /*console.log(money);
                 console.log(lat);
                 console.log(long);
+                */
+              }
+              if(LATB!=null && LONGB!=null && banks!=null)
+                {
+                dataRaw2.push(LATB,LONGB,banks);
+                /*console.log(LATB);
+                console.log(LONGB);
+                console.log(banks);
+                */
               }
             }
-         
-              
-             
-             var data = [['test', dataRaw]];
             
               
-              window.data = data;
-            //return;
-            for (i=0;i<data.length;i++) {
-              globe.addData(data[i][1], {format: 'magnitude', name: data[i][0], animated: true});
-            }
-            globe.createPoints();
-            settime(globe,0)();
-            globe.animate();
-            document.body.style.backgroundImage = 'none'; // remove loading
+              var incomeData=[['money', dataRaw1]];
+              var bankData=[['bank', dataRaw2]];
+              if(chose=="bank")
+              {
+              var data= bankData;
+              }
+              else
+                {data=incomeData;}
+
+             
+                // var data = bankData;
+                
+                  
+                  window.data = data;
+
+                //return;
+                for (i=0;i<data.length;i++) {
+                  console.log(data[i][1]);
+                  globe.addData(data[i][1], {format: 'magnitude', name: data[i][0], animated: true});
+                }
+                globe.createPoints();
+                settime(globe,0)();
+                globe.animate();
+                document.body.style.backgroundImage = 'none'; 
+            
           }
         }
       };
       xhr.send(null);
+      }
+
     }
-console.log("hello");
+//console.log("hello");
+
   </script>
 
   </body>
